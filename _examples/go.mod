@@ -9,7 +9,7 @@ require (
 	github.com/goccy/go-json v0.10.0 // indirect
 	github.com/goccy/go-zetasql v0.5.5 // indirect
 	github.com/google/uuid v1.3.0 // indirect
-	github.com/mattn/go-sqlite3 v1.14.16 // indirect
+	github.com/mattn/go-sqlite3 v1.14.23 // indirect
 	gonum.org/v1/gonum v0.11.0 // indirect
 )
 
