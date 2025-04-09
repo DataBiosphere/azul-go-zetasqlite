@@ -13,8 +13,8 @@ cloud.google.com/go/iam v0.13.0/go.mod h1:ljOg+rcNfzZ5d6f1nAUJ8ZIxOaZUVoS14bKCta
 cloud.google.com/go/longrunning v0.4.1 h1:v+yFJOfKC3yZdY6ZUI933pIYdhyhV8S3NpWrXWmg7jM=
 cloud.google.com/go/storage v1.29.0 h1:6weCgzRvMg7lzuUurI4697AqIRPU1SvzHhynwpW31jI=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/DataBiosphere/azul-go-zetasql v0.5.6-0.20250408052758-5c2ecd86d4c7 h1:xWwBZCxSCIKQhdB2keND5E3yIV+MRzZ0UGpsoaYIk0k=
-github.com/DataBiosphere/azul-go-zetasql v0.5.6-0.20250408052758-5c2ecd86d4c7/go.mod h1:xvvooX2RG404vnbdFZuAM8bTFksYwVUlqeIUrUNuo40=
+github.com/DataBiosphere/azul-go-zetasql v0.5.6-0.20250409043600-d591d4129c47 h1:JIYZVALEdrB4DiSFFW6ltXcJD5uE6U7USoTMyk2ung0=
+github.com/DataBiosphere/azul-go-zetasql v0.5.6-0.20250409043600-d591d4129c47/go.mod h1:xvvooX2RG404vnbdFZuAM8bTFksYwVUlqeIUrUNuo40=
 github.com/DataDog/go-hll v1.0.2 h1:Mm1HCqDMp/a6g/8OpJLkORYaRMy1AL0Kep8lopOgJeY=
 github.com/DataDog/go-hll v1.0.2/go.mod h1:nVlk+LiOuLOBG2pl+DJtGYBr6r6CUH/bGqebzrCUSKw=
 github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c h1:RGWPOewvKIROun94nF7v2cua9qP+thov/7M50KEoeSU=
