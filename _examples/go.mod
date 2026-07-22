@@ -15,10 +15,10 @@ require (
 	github.com/apache/arrow/go/v15 v15.0.2 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/dgryski/go-farm v0.0.0-20240924180020-3414d57e47da // indirect
-	github.com/dlclark/regexp2/v2 v2.5.0 // indirect
-	github.com/dop251/goja v0.0.0-20260701091749-b07b74453ea9 // indirect
+	github.com/dlclark/regexp2/v2 v2.5.2 // indirect
+	github.com/dop251/goja v0.0.0-20260722130236-0768e0998ac0 // indirect
 	github.com/felixge/httpsnoop v1.1.0 // indirect
-	github.com/go-logr/logr v1.4.3 // indirect
+	github.com/go-logr/logr v1.4.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-sourcemap/sourcemap v2.1.4+incompatible // indirect
 	github.com/goccy/go-json v0.10.6 // indirect
@@ -29,7 +29,7 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.18 // indirect
 	github.com/googleapis/gax-go/v2 v2.23.0 // indirect
-	github.com/klauspost/compress v1.19.0 // indirect
+	github.com/klauspost/compress v1.19.1 // indirect
 	github.com/klauspost/cpuid/v2 v2.4.0 // indirect
 	github.com/mattn/go-sqlite3 v1.14.48 // indirect
 	github.com/pierrec/lz4/v4 v4.1.27 // indirect
@@ -43,22 +43,22 @@ require (
 	go.opentelemetry.io/otel/metric v1.44.0 // indirect
 	go.opentelemetry.io/otel/trace v1.44.0 // indirect
 	golang.org/x/crypto v0.54.0 // indirect
-	golang.org/x/exp v0.0.0-20260709172345-9ea1abe57597 // indirect
+	golang.org/x/exp v0.0.0-20260718201538-764159d718ef // indirect
 	golang.org/x/mod v0.38.0 // indirect
 	golang.org/x/net v0.57.0 // indirect
 	golang.org/x/oauth2 v0.36.0 // indirect
 	golang.org/x/sync v0.22.0 // indirect
 	golang.org/x/sys v0.47.0 // indirect
-	golang.org/x/telemetry v0.0.0-20260716142750-dad6939de390 // indirect
+	golang.org/x/telemetry v0.0.0-20260717140457-bdb89881bb75 // indirect
 	golang.org/x/text v0.40.0 // indirect
 	golang.org/x/time v0.15.0 // indirect
 	golang.org/x/tools v0.48.0 // indirect
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da // indirect
 	gonum.org/v1/gonum v0.17.0 // indirect
-	google.golang.org/api v0.289.0 // indirect
-	google.golang.org/genproto v0.0.0-20260715232425-e75dac1f907d // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20260715232425-e75dac1f907d // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260715232425-e75dac1f907d // indirect
+	google.golang.org/api v0.290.0 // indirect
+	google.golang.org/genproto v0.0.0-20260720211330-0afa2a65878a // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20260720211330-0afa2a65878a // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260720211330-0afa2a65878a // indirect
 	google.golang.org/grpc v1.82.1 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 )
